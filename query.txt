@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7467012407%2C%22first_name%22%3A%22Isha%22%2C%22last_name%22%3A%22Nie%22%2C%22username%22%3A%22Isha37Nie%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-7913591313232760664&chat_type=sender&start_param=ref_nzMai6Od&auth_date=1727057724&hash=228d2c93e06dbc8451f8c5e0c329f5ae1fe860f5675c92447a7bf8d544976223
